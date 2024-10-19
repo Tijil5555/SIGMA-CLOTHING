@@ -1,3 +1,3 @@
 # SIGMA-CLOTHING
 
-A clothing site for morden and young generation
+A clothing site for morden and young generation 
